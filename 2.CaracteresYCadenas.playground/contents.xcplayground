@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Tipo de Dato String'/>
+        <page name='Caracteres, Unicode y Emojis'/>
+        <page name='Concatenacion e Interpolacion'/>
+        <page name='Comparacion y Otras Operaciones'/>
+    </pages>
+</playground>
