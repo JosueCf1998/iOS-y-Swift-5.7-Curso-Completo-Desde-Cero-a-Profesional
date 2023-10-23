@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1.Optionals'/>
+        <page name='2.Optional Biding'/>
+        <page name='3.Optional Chaining'/>
+        <page name='4.GuardLet'/>
+        <page name='5.ErrorHandling'/>
+        <page name='6.TypeCasting'/>
+        <page name='7.NestedTypes'/>
+        <page name='8.Extensions'/>
+        <page name='9.Protocolos'/>
+        <page name='10.Protocolo Delegado'/>
+        <page name='11.Genericos'/>
+        <page name='12.Control De Acceso'/>
+        <page name='13.AdvancedOperators'/>
+    </pages>
+</playground>

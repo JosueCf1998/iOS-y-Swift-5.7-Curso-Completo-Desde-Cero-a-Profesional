@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1.BooleanosyValoresLogicos'/>
+        <page name='2.Colecciones'/>
+        <page name='3.Arreglos'/>
+        <page name='4.DIccionarios'/>
+        <page name='5.Tuplas'/>
+        <page name='6.Enumeraciones'/>
+        <page name='7.Range Operator'/>
+        <page name='9.Operadores'/>
+        <page name='10.If-else'/>
+        <page name='13.Bucle For-In'/>
+        <page name='14.Bucle While'/>
+        <page name='Do-While'/>
+        <page name='8.Estructuras de Control'/>
+        <page name='11.Switch'/>
+        <page name='12.Estructuras Repetitivas'/>
+    </pages>
+</playground>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1.Sets'/>
+        <page name='3.SortAlgorithms'/>
+        <page name='2.Algoritmos de Colecciones'/>
+        <page name='5.MapAlgorithms'/>
+        <page name='6.ForEachAlgorithms'/>
+        <page name='7.OtherOperations'/>
+        <page name='4.FilterAlgorithms '/>
+    </pages>
+</playground>

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Avengers-emblema.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
