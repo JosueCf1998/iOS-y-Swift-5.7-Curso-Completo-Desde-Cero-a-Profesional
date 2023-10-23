@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='5.Protocolos'/>
+        <page name='4.Polimorfismo'/>
+        <page name='3.Encapsulamiento'/>
+        <page name='2.Herencia'/>
+        <page name='1.Clases'/>
+    </pages>
+</playground>
